@@ -1,5 +1,6 @@
 html {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -7,7 +8,6 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 h2 {
@@ -15,7 +15,6 @@ h2 {
   color: white;
   font-weight: 300;
   font-size: 42px;
-  text-align: center;
 }
 
 a {
@@ -28,13 +27,9 @@ p {
   font-family: verdana;
   color: gray;
   font-size: 21px;
-  text-align: center;
 }
 
-.main-banner {
-  font-size: 100px;
-  font-weight: bold;
-  color: khaki;
-  text-align: center;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+.footer {
+  text-align: right;
+  color: gray;
 }
